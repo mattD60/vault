@@ -1,2 +1,3 @@
-# vault
-where ideas become more
+
+It takes time to learn a different way of thinking, so this is good.
+
